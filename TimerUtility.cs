@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-public class Timer
+public class TimerUtility
 {
     private float duration;
     private float timeElapsed;
